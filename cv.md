@@ -32,3 +32,19 @@ function multiply(a, d) {
 let myResult = multiply(31, 15);
 console.log(myResult);
 ```
+
+## Experience
+
+I participated in some intensive courses on creating websites in html and css:
+- Abito - <https://github.com/Petrushenia/Abito>
+- Melody - <https://github.com/Petrushenia/Melody>
+-  Eat-Index - <https://github.com/Petrushenia/Eat-Index>
+
+
+## Education
+
+Gomel State Vocational College of Electrical Engineering
+
+## English
+
+B1
